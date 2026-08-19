@@ -21,5 +21,10 @@
   "bugs": {
     "url": "https://github.com/karllabr/atividade-1/issues"
   },
-  "homepage": "https://github.com/karllabr/atividade-1#readme"
+  "homepage": "https://github.com/karllabr/atividade-1#readme",
+  "dependencies": {
+    "cors": "^2.8.6",
+    "express": "^5.2.1",
+    "mysql2": "^3.23.3"
+  }
 }
